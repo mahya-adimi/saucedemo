@@ -1,5 +1,5 @@
 # Suite test to test shopping functionality for Saucedemo
-Create a suite test and implement the test cases of shopping functionality based on Java, Selenium, Cucumber and ChromeDriver.
+This repository contains a suite test of shopping functionality (for regression test) based on Java, Selenium, Cucumber and ChromeDriver.
 
 ---
 
