@@ -32,6 +32,8 @@ Create a suite test and implement the test cases of shopping functionality based
 - Write 'mvn clean' to delete target folder
 - Write 'mvn verify' to run test cases
 
+---
+
 #### 🧾 HTML Test Report
 Find the report of test under the target folder:
   - target/html-report.html
@@ -46,6 +48,7 @@ Every push request to the `main` branch triggers automated:
 - Build and test with Maven
 - Run Cucumber tests
 - Generate and upload an HTML report and Cucumber JSON Report
+
 
 ### 🧾 Test Report
 
