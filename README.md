@@ -46,7 +46,6 @@ This project uses [GitHub Actions](https://github.com/mahya-adimi/saucedemo/blob
 
 Every push request to the `main` branch triggers automated:
 - Build and test with Maven
-- Run Cucumber tests
 - Generate and upload an HTML report and Cucumber JSON Report
 
 
