@@ -42,7 +42,7 @@ Find the report of test under the target folder:
 
 ## CI with GitHub Actions
 
-This project uses [GitHub Actions](https://github.com/mahya-adimi/saucedemo/blob/main/.github/workflows/regression-test.ymll) for continuous integration.
+This project uses [GitHub Actions](https://github.com/mahya-adimi/saucedemo/blob/main/.github/workflows/regression-test.yml) for continuous integration.
 
 Every push request to the `main` branch triggers automated:
 - Build and test with Maven
